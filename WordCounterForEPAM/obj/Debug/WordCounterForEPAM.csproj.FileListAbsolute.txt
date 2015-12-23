@@ -1,0 +1,5 @@
+E:\EPAM\Backup\WordCounterForEPAM\WordCounterForEPAM\bin\Debug\WordCounterForEPAM.exe.config
+E:\EPAM\Backup\WordCounterForEPAM\WordCounterForEPAM\bin\Debug\WordCounterForEPAM.exe
+E:\EPAM\Backup\WordCounterForEPAM\WordCounterForEPAM\bin\Debug\WordCounterForEPAM.pdb
+E:\EPAM\Backup\WordCounterForEPAM\WordCounterForEPAM\obj\Debug\WordCounterForEPAM.exe
+E:\EPAM\Backup\WordCounterForEPAM\WordCounterForEPAM\obj\Debug\WordCounterForEPAM.pdb
